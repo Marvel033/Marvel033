@@ -12,13 +12,15 @@ Here are some of the technical skills I have developed through coursework, perso
     Tools & Platforms: [Unity]
 
 💻 Projects
+
 2D Pong Game
 
 Description: Briefly describe the project, the goal, and any challenges you faced.
 Tech Stack: [List the languages, frameworks, or tools used]
 [Link to Project]
+
 Muscle Project
 
-Description: Briefly describe the project, what you learned, and how it contributes to your skills.
-Tech Stack: [List the languages, frameworks, or tools used]
+Description: Muscle Project is an RPG game with semi-idle mechanics where you will fight bosses and monsters to the get to upgrade your character. 
+Tech Stack: [C#, Unity]
 [Link to Project]
