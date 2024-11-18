@@ -48,8 +48,8 @@ Tech Stack: [C#, Unity].
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">Immunopedia ðŸ¦ </a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Work Less Play More ðŸŽ®</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">2D Pong Game</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Muscle Project</a></th>
     </tr>
   </thead>
   <tbody>
@@ -77,8 +77,8 @@ Tech Stack: [C#, Unity].
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive ðŸ’€</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Interstellar Janitor ðŸ§¹</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">KUKI Tower Defense</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Space Invaders AMA</a></th>
     </tr>
   </thead>
   <tbody>
