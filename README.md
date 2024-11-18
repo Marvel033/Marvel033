@@ -28,3 +28,19 @@ Description: Muscle Project is an RPG game with semi-idle mechanics where you wi
 Tech Stack: [C#, Unity]
 
 [Link to Project]
+
+Space Invaders AMA
+
+Description: Space Invaders is a classic arcade game where you play as a spaceship that battles over some waves of enemies and try to survive as long as you can
+
+Tech Stack: [C#, Unity].
+
+[Link to Project]
+
+KUKI Tower Defense
+
+Description: KUKI is a classic tower defense strategy game
+
+Tech Stack: [C#, Unity].
+
+[Link to Project]
