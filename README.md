@@ -24,7 +24,7 @@ Here are some of the technical skills I have developed through coursework, perso
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Marvel033/Game-Pong-2D/blob/main/2D%20Pong%20Game%20gif.mov"/></td>
+      <td><img src="https://github.com/Marvel033/Game-Pong-2D/blob/main/2Dponggamegif.gif"/></td>
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
