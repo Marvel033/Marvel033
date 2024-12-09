@@ -28,7 +28,7 @@ Here are some of the technical skills I have developed through coursework, perso
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A classic 2D retro game called made for my 1st game project. </td>
+      <td valign="text-top">A classic 2D retro game where you play against another player or computer with the purpose of getting higher score than your enemy. </td>
       <td valign="text-top"">A semi idle game where you play to upgrade your character using resources dropped by powerful bosses.<div></div></td>
     </tr>
     <tr>
