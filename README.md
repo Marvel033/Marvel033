@@ -58,7 +58,7 @@ Here are some of the technical skills I have developed through coursework, perso
     </tr>
     <tr>
       <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
-      <td valign="text-top">Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
+      <td valign="text-top">Space Invaderz is a classic survival 2D retro game where you play as a spaceship and try to survive for as long as possible while trying to get higher score. <br></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
