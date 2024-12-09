@@ -28,8 +28,8 @@ Here are some of the technical skills I have developed through coursework, perso
       <td><img src="https://github.com/wainini/wainini/blob/main/img/worklessplaymore%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game themed around human immune system. For this project, I mainly worked on the UI system. It was a nice challenge making all the UI dynamically add more stuff depending on the progress of the game. </td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top">A classic 2D retro game called made for my 1st game project. </td>
+      <td valign="text-top"">A semi idle game where you play to upgrade your character using resources dropped by powerful bosses.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/immunopedia">Itch Page</td>
