@@ -25,7 +25,7 @@ Here are some of the technical skills I have developed through coursework, perso
   <tbody>
     <tr>
       <td><img src="https://github.com/Marvel033/Game-Pong-2D/blob/main/2Dponggamegif.gif"/></td>
-      <td><img src="https://github.com/Marvel033/Muscle-Project/blob/main/heroicascendancygif.gif"/></td>
+      <td><img src="https://github.com/Marvel033/Heroic-Ascendancy-Unity-Project-main/blob/main/heroicascendancygif.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A classic 2D retro game where you play against another player or computer with the purpose of getting higher score than your enemy. </td>
