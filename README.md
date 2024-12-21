@@ -65,8 +65,8 @@ Here are some of the technical skills I have developed through coursework, perso
       <td><a href="https://bgdc.itch.io/interstellar-janitor">Itch Page</td>
     </tr>
     <tr>
-      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
-      <td><a href="https://itch.io/jam/brackeys-8/rate/1679306">Jam Page</td>
+      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive"></td>
+      <td><a href="https://itch.io/jam/brackeys-8/rate/1679306"></td>
     </tr>
   </tbody>
 </table>
