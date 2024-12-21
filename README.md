@@ -37,7 +37,7 @@ Here are some of the technical skills I have developed through coursework, perso
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
+      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323"></td>
     </tr>
   </tbody>
 </table>
