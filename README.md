@@ -18,7 +18,7 @@ Here are some of the technical skills I have developed through coursework, perso
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">2D Pong Game</a></th>
+      <th width="50%"><a href="https://github.com/Marvel033/Game-Pong-2D">2D Pong Game</a></th>
       <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Heroic Ascendancy</a></th>
     </tr>
   </thead>
