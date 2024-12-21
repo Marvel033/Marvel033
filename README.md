@@ -48,7 +48,7 @@ Here are some of the technical skills I have developed through coursework, perso
   <thead>
     <tr>
       <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">KUKI Tower Defense</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/interstellar-janitor">Space Invaders AMA</a></th>
+      <th width="50%"><a href="https://github.com/Marvel033/SPACEama">Space Invaders AMA</a></th>
     </tr>
   </thead>
   <tbody>
